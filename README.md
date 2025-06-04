@@ -1,9 +1,6 @@
 # jd-scfa
 raw proteomics data + R analysis scripts
 
-# Proteomics Analysis Project
-
-## Description
 This repository contains raw proteomics data (DDA) and R scripts for statistical analysis and data visualization
 
 ## Files
