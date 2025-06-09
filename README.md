@@ -1,5 +1,5 @@
 # jd-scfa
-This repository contains raw proteomics data (DDA) and R scripts for data processing and analysis used in the study titled: "**Limited intrinsic oxidation of short-chain fatty acids in skeletal muscke is enhanced by high fat feeding and exercise training**".
+This repository contains raw proteomics data and R scripts for data processing and analysis used in the study titled: "**Limited intrinsic oxidation of short-chain fatty acids in skeletal muscke is enhanced by high fat feeding and exercise training**".
 
 ## Files
 - 'jd-scfa_raw data.xlsx' - Raw proteomics data
